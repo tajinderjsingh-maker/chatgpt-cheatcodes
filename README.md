@@ -1,6 +1,6 @@
 # ChatGPT Cheatcode Repository — TJS
 
-## v0.5 — Gemstone Color System / Visual Distinction
+## v0.5.1 — Gemstone Color System / GitHub Pages Safe
 
 A GitHub Pages-ready custom prompt-operator library with **252 commands across 30 categories**.
 
@@ -30,3 +30,8 @@ Designed and developed by Tajinder J Singh.
 - Stronger active-category state and colored accent rail.
 - Category labels use soft colored pills for faster scanning.
 - Added `assets/color-direction-reference.png` as the supplied visual reference.
+
+### GitHub Pages
+Open the site through the repository's **GitHub Pages URL**. Clicking `index.html` inside GitHub shows the source file; it does not run it as a webpage.
+
+This version is self-contained: the visual reference image/assets folder is not required.

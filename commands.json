@@ -1,7 +1,7 @@
 {
   "title": "ChatGPT Cheatcode Repository",
-  "version": "0.2-design-expansion",
-  "note": "Curated custom prompt-operator vocabulary. These slash codes are user-defined conventions, not official ChatGPT slash commands unless explicitly supported by the product.",
+  "version": "0.1",
+  "note": "A curated prompt-operator vocabulary. Most /codes are custom shorthand conventions, not official ChatGPT slash commands. Official examples are labeled.",
   "categories": [
     {
       "name": "Core & Control",
@@ -864,21 +864,21 @@
       "cmd": "/2030",
       "category": "Time & Evolution",
       "slug": "time",
-      "description": "Apply a  → 030 lens or transformation to the subject; make the result explicit and useful.",
+      "description": "Apply a  \u2192 030 lens or transformation to the subject; make the result explicit and useful.",
       "official": false
     },
     {
       "cmd": "/2040",
       "category": "Time & Evolution",
       "slug": "time",
-      "description": "Apply a  → 040 lens or transformation to the subject; make the result explicit and useful.",
+      "description": "Apply a  \u2192 040 lens or transformation to the subject; make the result explicit and useful.",
       "official": false
     },
     {
       "cmd": "/2050",
       "category": "Futures & Foresight",
       "slug": "future",
-      "description": "Apply a  → 050 lens or transformation to the subject; make the result explicit and useful.",
+      "description": "Apply a  \u2192 050 lens or transformation to the subject; make the result explicit and useful.",
       "official": false
     },
     {
@@ -1552,6 +1552,13 @@
       "slug": "research",
       "description": "Investigate the topic using credible evidence and distinguish facts from inference.",
       "official": false
+    },
+    {
+      "cmd": "/deepresearch",
+      "category": "Research",
+      "slug": "research",
+      "description": "Apply a deepresearch lens or transformation to the subject; make the result explicit and useful.",
+      "official": true
     },
     {
       "cmd": "/literature",
