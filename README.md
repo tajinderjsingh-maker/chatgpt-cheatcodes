@@ -25,3 +25,18 @@ Upload the files to a repository, enable GitHub Pages for the branch/folder cont
 
 ## Extending
 Edit `commands.json` and regenerate `index.html` if you want to add commands to the current bundled version. The page intentionally keeps the first release dependency-free so it is easy to host and maintain.
+
+## Personalization
+The footer credits **Tajinder J Singh — AI Technologist · Designer · Educator**.
+Public profile links are wired into the footer for Instagram, LinkedIn and Facebook.
+
+## Cheatcode Lab
+The first Lab mode lets visitors compose 2–5 operators, see a plain-language explanation of the stack, reset it, copy the recipe, or generate a suggested stack for experimentation.
+
+## Recommended Recipes
+The Lab includes 12 curated multi-command recipes for common workflows including design critique, future jobs, research, Instagram ideation, teaching, strategy, product concepts, visual explainers and curriculum development.
+
+### Public profiles
+- Instagram: https://www.instagram.com/aicreationlab/
+- LinkedIn: https://www.linkedin.com/in/tajinder-j-singh-34829735/
+- Facebook: https://www.facebook.com/TajinderJSingh
